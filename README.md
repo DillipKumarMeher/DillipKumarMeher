@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dillipvai8@gmail.com**
 
-- ⚡ Fun fact **am funny 😎**
+- ⚡ Fun fact **i am funny 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
