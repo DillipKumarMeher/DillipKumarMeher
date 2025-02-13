@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillipkumarmeher&label=Profile%20views&color=0e75b6&style=flat" alt="dillipkumarmeher" /> </p>
 
-<h2 align="left">👨‍💻  About Me</h2>
+<h2 align="left">👨‍💻  About Me:</h2>
 
 - 🌱 I’m currently learning **Software Testing Course**
 
@@ -13,9 +13,6 @@
 - 📫 How to reach me **dillipvai8@gmail.com**
 
 - ⚡ Fun fact **I'm funny 😎**
-  
-  ###
-
   
 
 <!--<h3 align="left">Connect with me:</h3>
