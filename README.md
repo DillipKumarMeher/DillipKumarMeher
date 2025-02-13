@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dillip Kumar Meher</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillipkumarmeher&label=Profile%20views&color=0e75b6&style=flat" alt="dillipkumarmeher" /> </p>
 
