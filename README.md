@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Software Testing Course**
 
+<h2 align="left">👩‍💻  About Me</h2>
+
 - 💬 Ask me about **Java, Selenium, Manual, Sql, Api**
 
 - 📫 How to reach me **dillipvai8@gmail.com**
