@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillipkumarmeher&label=Profile%20views&color=0e75b6&style=flat" alt="dillipkumarmeher" /> </p>
 
-- 🌱 I’m currently learning **Software Testing Course**
-
 <h2 align="left">👩‍💻  About Me</h2>
+
+- 🌱 I’m currently learning **Software Testing Course**
 
 - 💬 Ask me about **Java, Selenium, Manual, Sql, Api**
 
