@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dillipkumarmeher&show_icons=true&locale=en&layout=compact" alt="dillipkumarmeher" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillipkumarmeher&show_icons=true&locale=en" alt="dillipkumarmeher" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillipkumarmeher&show_icons=true&locale=en" alt="dillipkumarmeher" /></p>-->
