@@ -23,7 +23,7 @@
 <a href="https://github.com/dillipkumarmeher">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/dillipkumarmeher">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:dillipvai8@gmail.com">
