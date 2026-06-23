@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 Automation Tester | 💻 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Automation+Testing+Engineer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Automation+Testing+Engineer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Things+🚀"/>
 </p>
 
 ---
